@@ -1,0 +1,4 @@
+﻿  kek.cpp
+C:\Users\ElRomario\source\repos\kek\kek\kek.cpp(112): warning C4172: возвращение адреса локальной или временной переменной : temp1
+C:\Users\ElRomario\source\repos\kek\kek\kek.cpp(137): warning C4715: PriQueue::PriorityCheck: значение возвращается не при всех путях выполнения
+  kek.vcxproj -> C:\Users\ElRomario\source\repos\kek\Debug\kek.exe
